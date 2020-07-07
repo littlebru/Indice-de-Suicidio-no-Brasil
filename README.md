@@ -13,12 +13,12 @@ Análise de Dados comparando o aumento de casos de suicídio no Brasil<br>
 <a href="#">
 <img src="https://github.com/littlebru/Taxa-de-Suicidio-no-Brasil/blob/master/images/botao_fonteDados.png" width="160px" alt="acesso aos dados" title="Baixar o Dataset">
 </a>
-<a href="#">
+<a href="https://gist.github.com/littlebru/c14170c16839c58ce3ab939cc2dba675">
 <img src="https://github.com/littlebru/Taxa-de-Suicidio-no-Brasil/blob/master/images/botao_Gist.png" width="160px" alt="acesso aos dados no gist" title="Acessar Dataset no Gist">
 </a>
 
 
-## Autora
+## Autores
 <table>
   <tr>
     <td align="center"><a href="https://github.com/littlebru"><img src="https://avatars3.githubusercontent.com/u/41810923?s=460&u=c2196ec3a4f76218d7b11bb2a9cf025d2d2e9fdc&v=4" width="60px;"  title="Sou eu Bruna"/><br /><sub><b>Bruna Gomes</b></sub></a>
