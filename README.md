@@ -5,6 +5,7 @@
 |:--------------------------------------------------------------------------------------------------------------------------------:|
 |Este notebook tem um fim único e exclusivamente didático, para alunos da FATEC, como uma introdução à Análise de Dados Públicos. Desse modo, está excluída a garantia ou responsabilidade de qualquer tipo, por exemplo, de precisão, confiabilidade, completude e atualidade das informações.|
 
+<a href="https://colab.research.google.com/drive/1vOTB97qc-QaD1w3OC0RiqBpC1bxWz4qW?usp=sharing"><img src="https://github.com/littlebru/Taxa-de-Suicidio-no-Brasil/blob/master/images/botao_colab.gif" width="30%"></a>
 
 <img src="https://github.com/littlebru/Taxa-de-Suicidio-no-Brasil/blob/master/images/secao_texto.png" width="65%">
 
