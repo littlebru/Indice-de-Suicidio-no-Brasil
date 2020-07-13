@@ -34,12 +34,8 @@ Dados de casos de suicidios em cada região e a evolução dos casos ao longo do
 ![Grafico de regioes](https://github.com/littlebru/Taxa-de-Suicidio-no-Brasil/blob/master/images/grafico_01.png)
 
 
-### Dados no Gist
-<a href="https://gist.github.com/littlebru/c14170c16839c58ce3ab939cc2dba675">
-<img src="https://github.com/littlebru/Taxa-de-Suicidio-no-Brasil/blob/master/images/botao_Gist.png" width="160px" alt="acesso aos dados no gist" title="Acessar Dataset no Gist">
-</a>
-
 <img src="https://github.com/littlebru/Taxa-de-Suicidio-no-Brasil/blob/master/images/secao_fontes.png" width="65%">
+
 - [Organização Mundial da Saúde](https://apps.who.int/gho/data/node.main.MHSUICIDE?lang=en)
 
 - [TabNetDataSUS](http://tabnet.datasus.gov.br/cgi/deftohtm.exe?idb2012/c09.def)
