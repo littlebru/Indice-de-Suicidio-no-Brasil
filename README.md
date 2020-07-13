@@ -6,7 +6,8 @@
 |Este notebook tem um fim único e exclusivamente didático, para alunos da FATEC, como uma introdução à Análise de Dados Públicos. Desse modo, está excluída a garantia ou responsabilidade de qualquer tipo, por exemplo, de precisão, confiabilidade, completude e atualidade das informações.|
 
 
-### POR QUE UMA PESSOA COMETE SUICÍDIO?
+<img src="https://github.com/littlebru/Taxa-de-Suicidio-no-Brasil/blob/master/images/secao_texto.png" width="65%">
+
 As consequências formas de suicídios mais praticadas no mundo e no Brasil trouxeram alguns estudos sobre suicídio que dizem que os diversos motivos levam a pessoa a cometerem devido à perda do sentido existencial, que normalmente vem de uma depressão profunda.
 
 Na tentativa de suicídio, um dos motivos que mais ocorre é a solidão, onde o sentimento de angústia profunda, isolamento e o silêncio podem ser uma das formas de se perceber que a pessoa não está bem
@@ -18,6 +19,11 @@ Dificuldades financeiras, profissionais ou problemas de relacionamentos também 
 Atualmente, o bullying ocorrido em escolas por adolescentes e jovens fazem com que muitos acabem cometendo o suicídio. Porém, antes disso a pessoa se sente ansiosa e em pânico
 Portanto, independente de quaisquer formas de suicídio mais praticadas no Brasil e no mundo, ele deve sempre ser levado a sério. Com isso, o mais adequado a se fazer é conversar com estas pessoas e procurar entende-las sem julgá-las, aconselhando que elas procurem ajuda profissional.
 
+
+O Brasil é conhecido como o oitavo país a ter casos de suicídios, sendo a maioria cometida por homens. Com isso, a Organização Mundial da Saúde (OMS) procura atentar os governos para este assunto, considerando como um dos grandes problemas atuais na saúde pública
+
+<img src="https://github.com/littlebru/Taxa-de-Suicidio-no-Brasil/blob/master/images/secao_visualizacao.png" width="65%">
+
 Foram analisados o numero de mulheres e homens que cometeram suicidios por região **(Dados de 2011)**
 ![Grafico de mulheres](https://github.com/littlebru/Taxa-de-Suicidio-no-Brasil/blob/master/images/Grafico_02.png)
 ![Grafico de homens](https://github.com/littlebru/Taxa-de-Suicidio-no-Brasil/blob/master/images/Grafico_03.png)
@@ -28,25 +34,19 @@ Dados de casos de suicidios em cada região e a evolução dos casos ao longo do
 ![Grafico de regioes](https://github.com/littlebru/Taxa-de-Suicidio-no-Brasil/blob/master/images/grafico_01.png)
 
 
-O Brasil é conhecido como o oitavo país a ter casos de suicídios, sendo a maioria cometida por homens. Com isso, a Organização Mundial da Saúde (OMS) procura atentar os governos para este assunto, considerando como um dos grandes problemas atuais na saúde pública
-
-### Fonte de Dados
-<a href="https://apps.who.int/gho/data/node.main.MHSUICIDE?lang=en">
-<img src="https://github.com/littlebru/Taxa-de-Suicidio-no-Brasil/blob/master/images/botao_fonteDados.png" width="160px" alt="acesso aos dados" title="Baixar o Dataset">
-</a>
-
-<a href="http://tabnet.datasus.gov.br/cgi/deftohtm.exe?idb2012/c09.def">
-<img src="https://github.com/littlebru/Taxa-de-Suicidio-no-Brasil/blob/master/images/botao_fonteDados.png" width="160px" alt="acesso aos dados" title="Baixar o Dataset">
-</a>
-
+### Dados no Gist
 <a href="https://gist.github.com/littlebru/c14170c16839c58ce3ab939cc2dba675">
 <img src="https://github.com/littlebru/Taxa-de-Suicidio-no-Brasil/blob/master/images/botao_Gist.png" width="160px" alt="acesso aos dados no gist" title="Acessar Dataset no Gist">
 </a>
 
-### Bibliografia
+<img src="https://github.com/littlebru/Taxa-de-Suicidio-no-Brasil/blob/master/images/secao_fontes.png" width="65%">
+- [Organização Mundial da Saúde](https://apps.who.int/gho/data/node.main.MHSUICIDE?lang=en)
+
 - [TabNetDataSUS](http://tabnet.datasus.gov.br/cgi/deftohtm.exe?idb2012/c09.def)
 
 - [DataSUS](http://www2.datasus.gov.br/DATASUS/index.php?area=0205)
+
+<img src="https://github.com/littlebru/Taxa-de-Suicidio-no-Brasil/blob/master/images/secao_pesquisas.png" width="65%">
 
 - [Tutorial TabNet](http://www.ans.gov.br/anstabnet/tabhelp.htm)
 
@@ -58,6 +58,11 @@ O Brasil é conhecido como o oitavo país a ter casos de suicídios, sendo a mai
 
 - [Pandas Style](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.io.formats.style.Styler.html?highlight=styler#pandas.io.formats.style.Styler)
 
+## Professor Orientador
+<table>
+<td align="center"><a href="https://github.com/fmasanori"><img src="https://avatars1.githubusercontent.com/u/977887?s=400&u=d68c50c6ac3f2845bbb48efff7c37742d3a010d0&v=4" width="60px;"  title="Fernando Masanori"/><br /><sub><b>Fernando Masanori</b></sub></a>
+</table>
+  
 ## Autores
 <table>
   <tr>
