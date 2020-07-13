@@ -24,13 +24,11 @@ O Brasil é conhecido como o oitavo país a ter casos de suicídios, sendo a mai
 
 <img src="https://github.com/littlebru/Taxa-de-Suicidio-no-Brasil/blob/master/images/secao_visualizacao.png" width="65%">
 
-Foram analisados o numero de mulheres e homens que cometeram suicidios por região **(Dados de 2011)**
 ![Grafico de mulheres](https://github.com/littlebru/Taxa-de-Suicidio-no-Brasil/blob/master/images/Grafico_02.png)
 ![Grafico de homens](https://github.com/littlebru/Taxa-de-Suicidio-no-Brasil/blob/master/images/Grafico_03.png)
-<br>
-
-Dados de casos de suicidios em cada região e a evolução dos casos ao longo dos anos **(Dados de 2011 - 2015)**
 ![Grafico de regioes](https://github.com/littlebru/Taxa-de-Suicidio-no-Brasil/blob/master/images/Grafico_04.png)
+
+### Evolução dos casos de suicidio entre os anos de 1985 a 2015
 ![Grafico de regioes](https://github.com/littlebru/Taxa-de-Suicidio-no-Brasil/blob/master/images/grafico_01.png)
 
 
